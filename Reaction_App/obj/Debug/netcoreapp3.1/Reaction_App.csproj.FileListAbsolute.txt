@@ -1,0 +1,12 @@
+/Users/macintosh/Documents/GitHub/Reaction-Time-App/Reaction_App/bin/Debug/netcoreapp3.1/Reaction_App.deps.json
+/Users/macintosh/Documents/GitHub/Reaction-Time-App/Reaction_App/bin/Debug/netcoreapp3.1/Reaction_App.runtimeconfig.json
+/Users/macintosh/Documents/GitHub/Reaction-Time-App/Reaction_App/bin/Debug/netcoreapp3.1/Reaction_App.runtimeconfig.dev.json
+/Users/macintosh/Documents/GitHub/Reaction-Time-App/Reaction_App/bin/Debug/netcoreapp3.1/Reaction_App.dll
+/Users/macintosh/Documents/GitHub/Reaction-Time-App/Reaction_App/bin/Debug/netcoreapp3.1/Reaction_App.pdb
+/Users/macintosh/Documents/GitHub/Reaction-Time-App/Reaction_App/obj/Debug/netcoreapp3.1/Reaction_App.csprojAssemblyReference.cache
+/Users/macintosh/Documents/GitHub/Reaction-Time-App/Reaction_App/obj/Debug/netcoreapp3.1/Reaction_App.csproj.CoreCompileInputs.cache
+/Users/macintosh/Documents/GitHub/Reaction-Time-App/Reaction_App/obj/Debug/netcoreapp3.1/Reaction_App.AssemblyInfoInputs.cache
+/Users/macintosh/Documents/GitHub/Reaction-Time-App/Reaction_App/obj/Debug/netcoreapp3.1/Reaction_App.AssemblyInfo.cs
+/Users/macintosh/Documents/GitHub/Reaction-Time-App/Reaction_App/obj/Debug/netcoreapp3.1/Reaction_App.dll
+/Users/macintosh/Documents/GitHub/Reaction-Time-App/Reaction_App/obj/Debug/netcoreapp3.1/Reaction_App.pdb
+/Users/macintosh/Documents/GitHub/Reaction-Time-App/Reaction_App/obj/Debug/netcoreapp3.1/Reaction_App.genruntimeconfig.cache
